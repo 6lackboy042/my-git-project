@@ -24,5 +24,5 @@
 
 - **Explain in simple terms git cherry-pick and the command for it:**
   Git cherry-pick is used to apply a specific commit from one branch to another.
-  Command: `git cherry-pick <commit-hash>`
+  Command: `git cherry-pick <commit-hash>` ...
 
